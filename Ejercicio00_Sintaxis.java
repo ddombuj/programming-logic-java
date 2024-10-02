@@ -13,7 +13,7 @@
  * lineas
 */
 
-public class Ejercicio01_Sintaxis {
+public class Ejercicio00_Sintaxis {
     public static void main(String[] args) {
             //Constantes
             final String hola = "Hola"; //Constante
